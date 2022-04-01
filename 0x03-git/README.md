@@ -1,3 +1,3 @@
 # 0x03-git
 
-My git project
+My first alx git project
